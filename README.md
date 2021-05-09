@@ -1,4 +1,4 @@
-# Trabalho 2 de IA
+# Algoritmo Genético
 
 ## Como executar o código
   Abrir o terminal e ir até a pasta onde está o código.
